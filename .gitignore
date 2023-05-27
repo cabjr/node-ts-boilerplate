@@ -1,0 +1,30 @@
+# Dependency directories
+/node_modules
+/dist
+
+# IDE / editor directories
+/.vscode
+/.idea
+*.sw*
+
+# Log files
+*.log
+
+# dotenv environment variable files
+.env
+
+# Debug log from npm
+npm-debug.log
+
+# Yarn integrity file
+.yarn-integrity
+
+# next.js
+/.next/
+/out/
+
+# Coverage directory used by tools like istanbul
+/coverage
+
+# TypeScript type checker
+.tsbuildinfo
